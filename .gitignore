@@ -1,0 +1,9 @@
+.build/
+.swiftpm/
+build/
+*.app/
+__pycache__/
+*.pyc
+.DS_Store
+.ghaccount
+*.log
